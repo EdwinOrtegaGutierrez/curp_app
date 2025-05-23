@@ -1,1 +1,4 @@
-pip install streamlit pandas selenium openpyxl
+streamlit
+pandas
+selenium
+openpyxl
